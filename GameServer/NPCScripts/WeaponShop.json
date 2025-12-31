@@ -1,0 +1,36 @@
+{
+  "ScriptName": "WeaponShop",
+  "StartDialogId": 1,
+  "Dialogs": [
+    {
+      "DialogId": 1,
+      "Text": "欢迎光临武器店！我这里有各种强大的武器。",
+      "Options": [
+        {
+          "Id": 1,
+          "Text": "我想看看你的武器",
+          "Action": "SHOP",
+          "Condition": ""
+        },
+        {
+          "Id": 2,
+          "Text": "我想修理武器",
+          "Action": "REPAIR",
+          "Condition": ""
+        },
+        {
+          "Id": 3,
+          "Text": "强化武器",
+          "Action": "ENHANCE",
+          "Condition": ""
+        },
+        {
+          "Id": 4,
+          "Text": "再见",
+          "Action": "EXIT",
+          "Condition": ""
+        }
+      ]
+    }
+  ]
+}

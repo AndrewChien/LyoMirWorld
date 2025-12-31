@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1E0DCF-7050-4504-8A46-176631E18698}|DBServer\\DBServer.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\dbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1E0DCF-7050-4504-8A46-176631E18698}|DBServer\\DBServer.csproj|solutionrelative:dbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14F9A3-613E-4C3F-9DB6-A99D98AF7AA9}|GameServer\\GameServer.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\gameserver\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E14F9A3-613E-4C3F-9DB6-A99D98AF7AA9}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458FB0B-2CB6-4DDF-9538-F3BEAEE0475F}|MirCommon\\MirCommon.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\mircommon\\database\\dbserverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458FB0B-2CB6-4DDF-9538-F3BEAEE0475F}|MirCommon\\MirCommon.csproj|solutionrelative:mircommon\\database\\dbserverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\GameServer\\GameClient.cs",
+              "RelativeDocumentMoniker": "GameServer\\GameClient.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\GameServer\\GameClient.cs",
+              "RelativeToolTip": "GameServer\\GameClient.cs",
+              "ViewState": "AgIAACkEAAAAAAAAAADwvzkEAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:21:50.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\DBServer\\Program.cs",
+              "RelativeDocumentMoniker": "DBServer\\Program.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\DBServer\\Program.cs",
+              "RelativeToolTip": "DBServer\\Program.cs",
+              "ViewState": "AgIAAKgDAAAAAAAAAAAiwL0DAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:21:31.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBServerClient.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\MirCommon\\Database\\DBServerClient.cs",
+              "RelativeDocumentMoniker": "MirCommon\\Database\\DBServerClient.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\MirCommon\\Database\\DBServerClient.cs",
+              "RelativeToolTip": "MirCommon\\Database\\DBServerClient.cs",
+              "ViewState": "AgIAABcDAAAAAAAAAAAuwCwDAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:58:02.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

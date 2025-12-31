@@ -1,0 +1,105 @@
+namespace GameServer
+{
+    /// <summary>
+    /// 事件标志枚举
+    /// </summary>
+    public enum EventFlag
+    {
+        None = 0,
+        NoDamage = 1,           // 无敌
+        NoMove = 2,             // 不可移动
+        NoAttack = 3,           // 不可攻击
+        NoMagic = 4,            // 不可使用魔法
+        NoItem = 5,             // 不可使用物品
+        NoChat = 6,             // 不可聊天
+        NoTrade = 7,            // 不可交易
+        NoDrop = 8,             // 不可丢弃物品
+        NoPickup = 9,           // 不可拾取物品
+        NoRecall = 10,          // 不可被召唤
+        NoTrans = 11,           // 不可传送
+        NoFly = 12,             // 不可飞行
+        NoDie = 13,             // 不会死亡
+        NoExp = 14,             // 不获得经验
+        NoPK = 15,              // 不可PK
+        NoGuild = 16,           // 不可加入行会
+        NoParty = 17,           // 不可组队
+        NoFriend = 18,          // 不可加好友
+        NoMail = 19,            // 不可发送邮件
+        NoAuction = 20,         // 不可拍卖
+        NoMarket = 21,          // 不可市场交易
+        NoStall = 22,           // 不可摆摊
+        NoQuest = 23,           // 不可接任务
+        NoSkill = 24,           // 不可学习技能
+        NoBuff = 25,            // 不可获得Buff
+        NoDebuff = 26,          // 不可获得Debuff
+        NoHeal = 27,            // 不可被治疗
+        NoResurrect = 28,       // 不可被复活
+        NoSummon = 29,          // 不可被召唤
+        NoPet = 30,             // 不可携带宠物
+        NoMount = 31,           // 不可骑乘
+        NoTransform = 32,       // 不可变身
+        NoDisguise = 33,        // 不可伪装
+        NoStealth = 34,         // 不可潜行
+        NoSneak = 35,           // 不可偷袭
+        NoBackstab = 36,        // 不可背刺
+        NoCritical = 37,        // 不可暴击
+        NoDodge = 38,           // 不可闪避
+        NoBlock = 39,           // 不可格挡
+        NoParry = 40,           // 不可招架
+        NoCounter = 41,         // 不可反击
+        NoReflect = 42,         // 不可反射
+        NoAbsorb = 43,          // 不可吸收
+        NoReduce = 44,          // 不可减免
+        NoIgnore = 45,          // 不可无视防御
+        NoPenetrate = 46,       // 不可穿透
+        NoSplash = 47,          // 不可溅射
+        NoChain = 48,           // 不可连锁
+        NoBounce = 49,          // 不可弹射
+        NoSpread = 50,          // 不可扩散
+        NoExplode = 51,         // 不可爆炸
+        NoImplode = 52,         // 不可内爆
+        NoVortex = 53,          // 不可漩涡
+        NoBlackhole = 54,       // 不可黑洞
+        NoGravity = 55,         // 不可重力
+        NoTime = 56,            // 不可时间
+        NoSpace = 57,           // 不可空间
+        NoDimension = 58,       // 不可维度
+        NoReality = 59,         // 不可现实
+        NoDream = 60,           // 不可梦境
+        NoIllusion = 61,        // 不可幻象
+        NoMirage = 62,          // 不可海市蜃楼
+        NoPhantom = 63,         // 不可幽灵
+        NoGhost = 64,           // 不可鬼魂
+        NoSpirit = 65,          // 不可灵魂
+        NoDemon = 66,           // 不可恶魔
+        NoAngel = 67,           // 不可天使
+        NoGod = 68,             // 不可神
+        NoDevil = 69,           // 不可魔鬼
+        NoDragon = 70,          // 不可龙
+        NoPhoenix = 71,         // 不可凤凰
+        NoUnicorn = 72,         // 不可独角兽
+        NoGriffin = 73,         // 不可狮鹫
+        NoPegasus = 74,         // 不可飞马
+        NoMermaid = 75,         // 不可美人鱼
+        NoSiren = 76,           // 不可塞壬
+        NoHydra = 77,           // 不可九头蛇
+        NoChimera = 78,         // 不可奇美拉
+        NoCerberus = 79,        // 不可刻耳柏洛斯
+        NoMinotaur = 80,        // 不可弥诺陶洛斯
+        NoCyclops = 81,         // 不可独眼巨人
+        NoGiant = 82,           // 不可巨人
+        NoTitan = 83,           // 不可泰坦
+        NoGolem = 84,           // 不可魔像
+        NoElemental = 85,       // 不可元素
+        NoUndead = 86,          // 不可亡灵
+        NoConstruct = 87,       // 不可构装体
+        NoAberration = 88,      // 不可异怪
+        NoBeast = 89,           // 不可野兽
+        NoHumanoid = 90,        // 不可人形生物
+        NoMonstrosity = 91,     // 不可怪物
+        NoOoze = 92,            // 不可泥怪
+        NoPlant = 93,           // 不可植物
+        NoVermin = 94,          // 不可虫类
+        Max = 95
+    }
+}

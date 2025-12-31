@@ -1,0 +1,24 @@
+{
+  "ScriptName": "PotionShop",
+  "StartDialogId": 1,
+  "Dialogs": [
+    {
+      "DialogId": 1,
+      "Text": "需要药水吗？我这里有最好的恢复药水！",
+      "Options": [
+        {
+          "Id": 1,
+          "Text": "购买药水",
+          "Action": "SHOP",
+          "Condition": ""
+        },
+        {
+          "Id": 2,
+          "Text": "离开",
+          "Action": "EXIT",
+          "Condition": ""
+        }
+      ]
+    }
+  ]
+}

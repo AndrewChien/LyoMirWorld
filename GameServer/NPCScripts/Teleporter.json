@@ -1,0 +1,30 @@
+{
+  "ScriptName": "Teleporter",
+  "StartDialogId": 1,
+  "Dialogs": [
+    {
+      "DialogId": 1,
+      "Text": "我可以把你传送到各个主要城市。",
+      "Options": [
+        {
+          "Id": 1,
+          "Text": "传送到银杏山谷",
+          "Action": "TELEPORT:1",
+          "Condition": ""
+        },
+        {
+          "Id": 2,
+          "Text": "传送到毒蛇山谷",
+          "Action": "TELEPORT:2",
+          "Condition": ""
+        },
+        {
+          "Id": 3,
+          "Text": "取消",
+          "Action": "EXIT",
+          "Condition": ""
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,10 @@
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/mw_magic.jpg'/></br>
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/mw_monster.png'/></br>
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/mw_NPC.png'/></br>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/npc.png'/></br>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/pig.png'/></br>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/street.png'/></br>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/mon.png'/></br>
 
 ---
 

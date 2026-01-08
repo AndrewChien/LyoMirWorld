@@ -1,5 +1,12 @@
 # LyoMirWorld
 传奇世界C#版服务端，基于淡抹夕阳06年代码，仍然在开发中，欢迎交流。
+
+</br>
+</br>
+配套资源文件在QQ群共享文件中，群号：1063081017
+</br>
+</br>
+
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/mirworld01.png'/></br>
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/mirworld02.png'/></br>
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/mw_magic.jpg'/></br>

@@ -2,6 +2,9 @@
 传奇世界C#版服务端，基于淡抹夕阳06年代码，仍然在开发中，欢迎交流。
 </br>
 </br>
+Windows用户推荐使用LyoConsole管理器进行一键启停：https://github.com/AndrewChien/LyoConsole/releases/tag/v1.0.0
+</br>
+</br>
 登录器及登录器配置器项目地址：https://github.com/AndrewChien/LyoMirWorldLauncher/releases/tag/v1.0.0
 </br>
 </br>
